@@ -25,7 +25,7 @@ public class Main extends JavaPlugin {
 	}
 
 	public void init() {
-
+		getCommand("gift").setExecutor(this);
 	}
 
 	@Override

@@ -1,0 +1,8 @@
+name: Gifts
+author: Trophonix
+version: 1.0
+main: main.java.com.trophonix.gift.Main
+commands:
+   gift:
+      description: Send a gift!
+      usage: /<command> <player> [note]
